@@ -9,3 +9,4 @@
 [15:20] admin: fez login
 [15:26:09] admin: fez login
 [15:26:35] admin: criou user nick
+[15:27:41] nick: fez login
