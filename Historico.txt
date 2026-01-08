@@ -2,3 +2,4 @@
 [08/01/26 às 14:56] user: fez login no sistema
 [14:58 em 08/01/26] admin: entrou no EasyCel
 [14:59 em 08/01/26] admin: entrou no EasyCel
+[15:04 em 08/01/26] admin: fez login
