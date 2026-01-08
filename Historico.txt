@@ -4,3 +4,4 @@
 [14:59 em 08/01/26] admin: entrou no EasyCel
 [15:04 em 08/01/26] admin: fez login
 [15:05 em 08/01/26] user: fez login
+[15:13 em 08/01/26] admin: fez login
