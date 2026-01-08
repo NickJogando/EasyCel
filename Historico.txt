@@ -12,3 +12,4 @@
 [15:27:41] nick: fez login
 [15:35] admin: fez login
 [15:35] admin: moveu Planilha de teste!.xlsx p/ nick
+[15:35] admin: moveu Planilha de teste!.xlsx p/ nick
