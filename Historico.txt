@@ -8,3 +8,4 @@
 [15:16] admin: fez login
 [15:20] admin: fez login
 [15:26:09] admin: fez login
+[15:26:35] admin: criou user nick
