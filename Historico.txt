@@ -15,3 +15,4 @@
 [15:35] admin: moveu Planilha de teste!.xlsx p/ nick
 [12:33] admin: fez login
 [12:44] user: fez login
+[12:44] user: criou pasta: Teste
