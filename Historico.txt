@@ -20,3 +20,4 @@
 [16:45] admin: fez login
 [16:46] admin: moveu Planilha de teste!.xlsx
 [16:46] admin: moveu Planilha de teste!.xlsx
+[16:46] admin: copiou Planilha de teste!.xlsx
